@@ -38,11 +38,6 @@ a:hover {
     width: 800px;
 }
 
-.right-side {
-    flex: 1;
-    justify-content: flex-end;
-}
-
 .left-side-content {
     font-family: Lato;
     font-size: 25px;
